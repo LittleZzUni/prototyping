@@ -6,7 +6,7 @@
     "author" : "Jason Storey",
     "description" : "A number of helpful scripts,components and extension methds. not the most performant, but allows for quick prototyping and proof of concepts",
     "dependencies" : {
-        "com.jasonstorey.core" : "1.0.0"
+        "com.jasonstorey.core": "https://github.com/jason-storey/core.git"
     },
     "repository" : {
         "type" : "git",
