@@ -1,7 +1,7 @@
 {
     "name" : "com.jasonstorey.prototyping",
     "displayName" : "Jason Storey's Prototyping Tools",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "unity" : "2019.1",
     "author" : "Jason Storey",
     "description" : "A number of helpful scripts,components and extension methds. not the most performant, but allows for quick prototyping and proof of concepts",
